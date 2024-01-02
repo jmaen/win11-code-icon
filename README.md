@@ -8,6 +8,6 @@ A custom icon for directories containing source code, consistent with other Wind
   <i>256px, 64px, 48px, 40px, 32px, 24px, 20px, 16px</i>
 </p>
 
-### Sources
+## Sources
 - [fluent-system-icons](https://github.com/microsoft/fluentui-system-icons) (Code icon)
 - [Folder11](https://github.com/icon11-community/Folder11) (Directory template)
